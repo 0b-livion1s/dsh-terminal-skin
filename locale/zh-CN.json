@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "终端皮肤",
+    "description": "把整个 Harness 渲染成等宽终端控制台，提供绿色、琥珀色、黑白三套配色。Ctrl+B 收起侧栏，Ctrl+Alt+T 轮换配色。",
+    "detail": "docs/DETAIL.md"
+  }
+}

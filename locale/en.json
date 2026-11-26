@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Terminal skin",
+    "description": "Renders the whole Harness as a monospace terminal console with green, amber, or black palettes. Ctrl+B collapses the sidebar, Ctrl+Alt+T cycles palettes.",
+    "detail": "docs/DETAIL.md"
+  }
+}
